@@ -140,7 +140,7 @@
 
     </head>
     <body>
-    <h2>test</h2>
+  
         <div class="container">
             @yield('content')
         </div>
